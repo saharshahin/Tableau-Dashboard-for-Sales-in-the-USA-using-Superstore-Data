@@ -1,5 +1,7 @@
 # Tableau Dashboard for Sales in the USA using Superstore Data
 
+View the dashboard on Tableau -- https://public.tableau.com/views/SuperStoreDataAnalysis_16853661992290/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 This repository contains a Tableau dashboard that visualizes sales data for the USA using the Superstore dataset. 
 The Superstore dataset is a publicly available dataset that contains data on sales, profits, and other metrics for a fictional company that sells office supplies.
 
