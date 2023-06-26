@@ -15,6 +15,8 @@ The dashboard includes several visualizations, including:
 The dashboard is built using Tableau Public, a free platform for creating and sharing data visualizations. 
 The Superstore dataset is included in the repository, along with a Tableau workbook file (.twbx) that contains the dashboard.
 
+![Screenshot 2023-06-26 044220](https://github.com/saharshahin/Tableau-Dashboard-for-Sales-in-the-USA-using-Superstore-Data/assets/134793881/daeea896-b715-4f2e-851f-ab1a695e9c8a)
+
 ## How to Use the Dashboard
 
 To use the dashboard, follow these steps:
